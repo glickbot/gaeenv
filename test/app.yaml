@@ -1,0 +1,12 @@
+runtime: go112
+foo: bar
+ignore: me
+
+env_variables:
+  FOO: "This is a variable"
+  BAR: some.person@example.com
+  BAZ: 123
+  BAM: joijoaiejrg
+
+includes:
+  - env/prod.yaml

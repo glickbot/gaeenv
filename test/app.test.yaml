@@ -1,0 +1,14 @@
+runtime: go112
+foo: bar
+ignore: me
+
+includes:
+  - env/dev.yaml
+  - env/test.yaml
+  - env/qa.yaml
+
+env_variables:
+  FOO: "This is a test variable"
+  BAR: some.person@test.example.com
+  BAZ: 5667
+  BAM: testoijeorijg

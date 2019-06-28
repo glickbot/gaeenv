@@ -1,0 +1,6 @@
+env_variables:
+  PROD_VAR: "prod variable"
+  FOO: "This is not a thing"
+  BAR: override@example.com
+  BAZ: 123
+  BAM: joijoaiejrg

@@ -1,0 +1,6 @@
+env_variables:
+  DEV_VAR: "dev variable"
+  FOO: "This is not a thing"
+  BAR: override@example.com
+  BAZ: 123
+  BAM: joijoaiejrg
